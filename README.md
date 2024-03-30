@@ -1,5 +1,6 @@
-Meu nome é Ramon, tenho 22 anos, trabalho com a plataforma OutSystems e a linguagem Python, já possuo alguns projetos
-em reactive desenvolvido na plataforma OutSystems e estou começando a desenvolver em Python 🚀
+Meu nome é Ramon, tenho 23 ,possuo alguns projetos
+em reactive desenvolvido na plataforma OutSystems, atualmente estou migrando para a área de dados, onde estou desenvolendo habilidades
+em algumas ferramentas como Excel, Power Bi e Python 🚀
 
 |   ![](assets/avatar.png)    |
 | :-------------------------: |
